@@ -5,7 +5,3 @@ analysis. Technologies used: HTML/CSS/Bootstrap, JavaScript Library Plotly, Pyth
 
 https://belly-button-biodiversity.herokuapp.com/
 
-
-
-![myimage-alt-tag](https://github.com/ruchichandra/Belly-Button-Biodiversity/blob/master/BellyButtonBiodiversityDashboard.PNG)
-
